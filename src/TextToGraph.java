@@ -1,7 +1,7 @@
 //b2 change
 import java.io.*;
 import java.util.*;
-//the IDE GIT TEST
+//the IDE GIT TEST2
 public class TextToGraph {    public static void main(String[] args) {
     String filePath;
     filePath = "./examples";
